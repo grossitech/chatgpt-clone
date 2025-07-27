@@ -8,8 +8,7 @@ Este é um projeto de estudo que replica a interface e a funcionalidade básicas
 
 ## 📸 Screenshot
 
-![Screenshot da Aplicação](caminho/para/sua/imagem.png)
-*(Dica: Tire um print da sua aplicação funcionando, adicione o arquivo na pasta do projeto e atualize o caminho acima)*
+![Screenshot da Aplicação](./screenshot.png)
 
 ## ✨ Funcionalidades
 
