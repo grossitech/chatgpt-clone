@@ -85,9 +85,18 @@ Siga os passos abaixo para rodar o projeto localmente:
    ```
    A aplicação React abrirá em seu navegador no endereço `http://localhost:3000`.
 
-## 👨‍💻 Autor
+## 👨‍💻 Expert
 
-Feito com ❤️ por Luciano Grossi.
+<img 
+  align=left 
+  margin=10 
+  width=80 
+  src="https://avatars.githubusercontent.com/u/188269406"
+/>
+<p>&nbsp&nbsp&nbsp&nbspLuciano Grossi<br/><br/>
+    &nbsp&nbsp&nbsp
+    <a href="https://github.com/grossitech"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+    <a href="https://twitter.com/lucianogrossi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+    <a href="https://www.linkedin.com/in/lucianogrossi"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucianogrossi)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/grossitech)
